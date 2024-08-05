@@ -22,7 +22,7 @@
     <p>To set up this project, follow these steps:</p>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/yourusername/text-summarizer.git</code></pre>
+        <pre><code>git clone https://github.com/Naifcx4735/Text-Summarizer</code></pre>
         <li>Navigate to the project directory:</li>
         <pre><code>cd text-summarizer</code></pre>
         <li>Install the required dependencies:</li>
