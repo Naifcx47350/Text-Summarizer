@@ -18,19 +18,6 @@
         highlighting the main points and key arguments of the provided text.
     </p>
 
-   <h2>Installation</h2>
-    <p>To set up this project, follow these steps:</p>
-    <ol>
-        <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/Naifcx4735/Text-Summarizer</code></pre>
-        <li>Navigate to the project directory:</li>
-        <pre><code>cd text-summarizer</code></pre>
-        <li>Install the required dependencies:</li>
-        <pre><code>pip install -r requirements.txt</code></pre>
-        <li>Set up your OpenAI API key in a <code>.env</code> file:</li>
-        <pre><code>OPEN_API_KEY=your_openai_api_key</code></pre>
-    </ol>
-
 <h2>Usage</h2>
     <p>
         To run the summarizer, use the following command:
